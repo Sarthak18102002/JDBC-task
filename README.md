@@ -1,1 +1,1 @@
-# JDBC-task
+# JDBC-java
